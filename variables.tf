@@ -31,7 +31,7 @@ variable "system" {
 variable "servername" {
     type = string
     description = "Server name of the virtual machine"
-    default = "vm-terraform2"
+    default = "vm-terraform-azure"
 }
 
 variable "location" {
